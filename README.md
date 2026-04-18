@@ -1,4 +1,4 @@
-## 🩺 Breast Cancer Detection using Logistic Regression using machine learning
+## 🩺 Breast Cancer Detection using Logistic Regression using machine learning model
 
 ## 📌 Project Overview
 This project focuses on predicting whether a tumor is **malignant** or **benign** using machine learning.  
